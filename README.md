@@ -16,4 +16,4 @@ To use:
 
           or
 
-* Clone my "Twitter_consumidor" repository and use simultaneously
+* Clone my "Twitter_consumidor" repository and use simultaneously with the API. More information here: 

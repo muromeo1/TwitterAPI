@@ -1,24 +1,19 @@
-# README
+# TwitterAPI
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**This isn't the official API!**
 
-Things you may want to cover:
+It's only a simple api made on ROR to understand how the architecture REST works.
 
-* Ruby version
+What's inside:
 
-* System dependencies
+* CRUD made with scaffold
 
-* Configuration
+* Doesn't have any authentication or validation token 
 
-* Database creation
+To use:
 
-* Database initialization
+* Use Postman to make requests (GET, POST, PUT, DELETE)
 
-* How to run the test suite
+          or
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Clone my "Twitter_consumidor" repository and use simultaneously

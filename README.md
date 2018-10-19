@@ -1,6 +1,6 @@
 # TwitterAPI
 
-**This isn't the official API!**
+**Isn't the official API!**
 
 It's only a simple api made on ROR to understand how the architecture REST works.
 
